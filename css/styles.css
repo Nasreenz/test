@@ -1,0 +1,15 @@
+.well{
+  background-image: url("../images/backgrounds/h_img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-weight: normal!important;
+}
+
+.jumbotron{
+  background-image: url("../images/backgrounds/c_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-weight: normal!important;
+}
